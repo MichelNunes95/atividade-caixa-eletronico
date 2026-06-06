@@ -36,4 +36,3 @@ do {
         console.log("Opção inválida.");
     }
 } while (opcao !== '4'); // O programa repete ENQUANTO a opção não for '4'
-//# sourceMappingURL=index.js.map
